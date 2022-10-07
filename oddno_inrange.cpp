@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+//basically we need the number of odd numbers in  a given range 
 class Solution {
 public:
     int countOdds(int low, int high) {
